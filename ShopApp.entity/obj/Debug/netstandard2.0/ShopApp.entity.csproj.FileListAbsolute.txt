@@ -1,0 +1,9 @@
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\bin\Debug\netstandard2.0\ShopApp.entity.deps.json
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\bin\Debug\netstandard2.0\ShopApp.entity.dll
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\bin\Debug\netstandard2.0\ShopApp.entity.pdb
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.csprojAssemblyReference.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.AssemblyInfoInputs.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.AssemblyInfo.cs
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.csproj.CoreCompileInputs.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.dll
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.entity\obj\Debug\netstandard2.0\ShopApp.entity.pdb

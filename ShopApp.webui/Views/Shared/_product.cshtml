@@ -1,0 +1,15 @@
+@model LaptopModel
+
+<div class="card mb-2">
+    <img class="card-img-top" src="@Model.ImgUrl">
+    <div class="card-body">
+        <h5 class="card-title">@Model.ModelAdi</h5>
+        <p class="card-text"></p>@Model.Price</p>
+        <i class="fas fa-lira-sign"></i>@Model.Price
+
+        <div class="card-footer text-center">
+            <a asp-controller="shop" asp-action="Details" asp-route-id="@Model.Id" asp-route-url="@Model.Details"
+                class="btn btn-primary btn-sm">Details</a>
+        </div>
+    </div>
+</div>

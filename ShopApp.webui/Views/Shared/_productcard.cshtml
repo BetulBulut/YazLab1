@@ -1,0 +1,64 @@
+@model LaptopCardModel
+
+<div class="card mb-3 my-3" style="max-width: 720px;">
+    <div class="row no-gutters">
+        <div class="col-md-4 ">
+            <img class="img-top" src="@Model.ImgUrl" alt="" style="width:200px;">
+
+            </a>
+        </div>
+        <div class="col-md-8 ">
+            <div class="card-body">
+                <h5 class="card-title">@Model.ModelAdi</h5>
+
+
+                <p class="card-text">
+
+                    @for (int i = 0; i < Model.SiteId.Count(); i++)
+                    {
+                        @if (Model.SiteId[i] == 1)
+                        {
+                            <a href="@Model.link[i]" target="_blank"><img src="~/img/trendyol.svg" alt=""></a>
+
+                            <small class="text-muted">@Model.Price[i]<i class="fas fa-lira-sign"></i></small>
+                        }
+                        @if (Model.SiteId[i] == 2)
+                        {
+                            <a href="@Model.link[i]" target="_blank"><img src="~/img/teknosa.svg" alt=""></a>
+                            <small class="text-muted">@Model.Price[i]<i class="fas fa-lira-sign"></i></small>
+                        }
+                        @if (Model.SiteId[i] == 3)
+                        {
+                            <a href="@Model.link[i]" target="_blank"><img src="~/img/vatan.webp" alt=""></a>
+                            <small class="text-muted">@Model.Price[i]<i class="fas fa-lira-sign"></i></small>
+                        }
+                        @if (Model.SiteId[i] == 4)
+                        {
+                            <a href="@Model.link[i]" target="_blank"><img src="~/img/n11.svg" alt=""></a>
+                            <small class="text-muted">@Model.Price[i]<i class="fas fa-lira-sign"></i></small>
+                        }
+
+                    }
+                    @* <i class="fas fa-lira-sign"></i>@Model.Price *@
+
+
+
+
+                </p>
+
+            </div>
+        </div>
+    </div>
+    @* <div class="card-footer text-center">
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-primary btn-sm"><img
+        src="~/img/teknosa.svg" alt=""></a>
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url"
+        class="btn btn-primary btn-sm">Vatan</a>
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-primary btn-sm"><img
+        src="~/img/n11.svg" alt=""></a>
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-primary btn-sm"><img
+        src="~/img/trendyol.svg" alt=""></a>
+
+        <a></a>
+        </div> *@
+</div>

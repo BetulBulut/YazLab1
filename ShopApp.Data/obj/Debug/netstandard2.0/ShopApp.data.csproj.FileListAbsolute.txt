@@ -1,0 +1,12 @@
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\bin\Debug\netstandard2.0\ShopApp.data.deps.json
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\bin\Debug\netstandard2.0\ShopApp.data.dll
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\bin\Debug\netstandard2.0\ShopApp.data.pdb
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\bin\Debug\netstandard2.0\ShopApp.entity.dll
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\bin\Debug\netstandard2.0\ShopApp.entity.pdb
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.csprojAssemblyReference.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.AssemblyInfoInputs.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.AssemblyInfo.cs
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.csproj.CoreCompileInputs.cache
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.csproj.CopyComplete
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.dll
+C:\Users\BeyzaNurCansever\OneDrive\Masaüstü\YazLab1\ShopApp\ShopApp.Data\obj\Debug\netstandard2.0\ShopApp.data.pdb
